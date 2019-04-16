@@ -1,4 +1,4 @@
-# Startovací balíček pro lekci 6 kurzu JavaScript 2
+# Startovací balíček pro lekci 7 kurzu JavaScript 2
 
 Startovací balíček pro nové projekty v rámci kurzu JavaScript #2 od Czechitas.
 
